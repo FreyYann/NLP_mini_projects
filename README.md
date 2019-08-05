@@ -3,3 +3,6 @@
 - tfidf
 - vectorizer
 - pipeline
+
+## 2. Sentimental Analysis
+- vader(pretrained model)
