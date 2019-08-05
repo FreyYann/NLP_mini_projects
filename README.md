@@ -5,4 +5,5 @@
 - pipeline
 
 ## 2. Sentimental Analysis
+- en_core_web_lg
 - vader(pretrained model)
