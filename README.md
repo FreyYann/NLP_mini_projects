@@ -7,3 +7,9 @@
 ## 2. Sentimental Analysis
 - en_core_web_lg
 - vader(pretrained model)
+
+## 3. Content Modeling
+- SVD
+- NMF non-negativ matrix fraction
+- tfidf
+- LDA
