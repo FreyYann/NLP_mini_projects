@@ -13,3 +13,7 @@
 - NMF non-negativ matrix fraction
 - tfidf
 - LDA
+
+## 4. Chat Bot
+- LSTM
+- End to end Memory network
